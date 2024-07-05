@@ -15,4 +15,4 @@ for i in numbers:
     if is_prime > 2:
         not_primes.append(i)
 print(primes)
-print((not_primes))
+print(not_primes)
